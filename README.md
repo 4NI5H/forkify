@@ -9,3 +9,5 @@ API Link: https://forkify-api.herokuapp.com/v2
 1. Navigate to forkify directory
 2. npm install
 3. npm start
+
+Credits: Jonas Schmedtmann's **[Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)**
