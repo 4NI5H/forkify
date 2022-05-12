@@ -1,6 +1,6 @@
 # forkify
 
-A recipe search app made using Jsvascript, HTML, SASS(css).
+A recipe search app made using Javascript, HTML, SASS(css).
 
 API Link: https://forkify-api.herokuapp.com/v2
 
